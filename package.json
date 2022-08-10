@@ -1,0 +1,19 @@
+{
+    "name": "Project1",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest"
+    
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "inquirer": "^6.5.0",
+        "inquirer-select-line": "^1.1.3",
+        "jest": "^24.9.0"
+    }
+}
+
